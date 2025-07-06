@@ -18,6 +18,7 @@ Database: MongoDB Atlas
 Charts: Recharts
 Language: JavaScript (No TypeScript)
 Project Structure
+```
 ├── components/
 │   ├── TransactionForm.js    # Form component for adding/editing transactions
 │   ├── TransactionList.js    # List component for displaying transactions
@@ -35,6 +36,7 @@ Project Structure
 ├── next.config.js          # Next.js configuration
 ├── package.json            # Project dependencies
 └── README.md              # Project documentation
+```
 Getting Started
 Prerequisites
 Node.js (version 14 or higher)
